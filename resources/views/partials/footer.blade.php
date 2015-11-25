@@ -9,8 +9,5 @@
 	</div>
 </footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="{{ url('assets/js/underscore.min.js') }}"></script>
 <script src="{{ url('assets/js/jquery.swipeshow.min.js') }}"></script>
-<script src="{{ url('assets/js/moment.min.js') }}"></script>
-<script src="{{ url('assets/js/clndr.min.js') }}"></script>
 <script src="{{ url('assets/js/conaic.main.js') }}"></script>
