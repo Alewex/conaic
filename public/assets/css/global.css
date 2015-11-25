@@ -273,7 +273,7 @@ footer {
 
 /*--- Mobile ---*/
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-device-width: 640px) {
 	.container, .main-wrapper {
 		position: relative;
 		width: 100%;
@@ -290,7 +290,7 @@ footer {
 		display: none;
 	}
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-device-width: 480px) {
 	header.main-header {
 		position: fixed;
 	}
